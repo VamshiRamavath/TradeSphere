@@ -1,2 +1,2 @@
-# TradeSphere
-A stock trading platform developed using web technologies, inspired by modern trading platforms, with a focus on stock market data and portfolio management.
+# Zerodha
+Please try to implement the project on your own before proceeding to the lectures &amp; code.
